@@ -1,4 +1,4 @@
-####Bienvenido A la pagina de mi proyecto de Clase 
+#### Bienvenido A la pagina de mi proyecto de Clase 
 Esta pagina es acerca de mis gustos  habilidades sociales y tecnologicas y sobre mi experiencia laboral
 
 # [MIS GUSTOS](./misgustos.md)
