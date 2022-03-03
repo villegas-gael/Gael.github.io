@@ -9,6 +9,3 @@ Mi hablilidad social que mas se me facilita es escuchar a las personas fuera de 
 
 ### HABILIDADES TECNOLOGICAS
 Mis habilidades tecnologicas por el momento solo cuento con la manipulacion de github en un estado Basico
-
-
-
