@@ -1,4 +1,4 @@
-[Gustos](./Gustos.md) | [experiencia laboral](./experiencialaboral.md)  | [mi experencia laboral](./miexperiencialaboral.md)
+[Gustos](./Gustos.md) | [Habilidades tecnologicas](./Habilidades tecnologicas.md)  | [mi experencia laboral](./miexperiencialaboral.md)
 
 #### Bienvenido A la pagina de mi proyecto de Clase 
 Esta pagina es acerca de mis gustos  habilidades sociales y tecnologicas y sobre mi experiencia laboral
