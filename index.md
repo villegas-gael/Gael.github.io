@@ -7,7 +7,6 @@ Esta pagina es acerca de mis gustos  habilidades sociales y tecnologicas y sobre
 Mi hablilidad social que mas se me facilita es escuchar a las personas fuera de eso creo que es la unica
 
 ### [HABILIDADES TECNOLOGICAS](./habilidadestecnologicas.md)
-Mis habilidades tecnologicas por el momento solo cuento con la manipulacion de github en un estado Basico
 
 | MIS GUSTOS   | HABILIDADES SOCIALES | HABILIDADES TECNOLOGICAS |
 |---------------|----------------------|--------------------------|
