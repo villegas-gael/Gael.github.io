@@ -3,9 +3,6 @@
 #### Bienvenido A la pagina de mi proyecto de Clase 
 Esta pagina es acerca de mis gustos  habilidades sociales y tecnologicas y sobre mi experiencia laboral
 
-## [MIS HABILIDADES SOCIALES](./misabilidadessociales.md)
-Mi hablilidad social que mas se me facilita es escuchar a las personas fuera de eso creo que es la unica
-
 | MIS GUSTOS   | HABILIDADES SOCIALES | HABILIDADES TECNOLOGICAS |
 |---------------|----------------------|--------------------------|
 | Escuchar musica del genero Rap/trap | Ponerme en el lugar de los demas | Manipullacion de Github |
